@@ -13,5 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Soarks">
+      <UniqueIdentifier>{26a05dda-e8f7-4051-9e92-c069ce1a52ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Soarks\Header Files">
+      <UniqueIdentifier>{1ac1c7ac-dc15-46ea-a79a-2a1690419d82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Soarks\Source Files">
+      <UniqueIdentifier>{736b94f7-2e27-4e4a-b6f4-d96848a70e19}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
